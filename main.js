@@ -13,7 +13,7 @@
     'use strict';
 
     const fotoHawkTuah = 'https://pbs.twimg.com/media/GijmN2mXcAEZ-tA?format=jpg&name=medium';
-    const profilePicture = 'https://pbs.twimg.com/profile_images/1860896124132827136/BT2g8SSg_400x400.png';
+    const profilePicture = 'https://cdn.discordapp.com/attachments/755919793063854080/1358152494282182958/images.png?ex=67f2cd93&is=67f17c13&hm=be988d61985ca0627a83004cba493e5a0fe2243410c5fc27a3a35230a1d88382&';
 
     const postagem = {
         content: `HAWK TUAH HAWK TUAH HAWK TUAH HAWK TUAH HAWK TUAH HAWK TUAH 
